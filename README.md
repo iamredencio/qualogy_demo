@@ -1,3 +1,3 @@
 # qualogy_test
 
-## docker-compose
+## docker-compose up
